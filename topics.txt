@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 1. Java 1.8.2
 2. Angular
+=======
+topincs asfd a
+sfd asdf
+>>>>>>> 2c90fed27b611b02dab4a6f941151bc80a4c34f3
